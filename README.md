@@ -5,10 +5,6 @@ A Budget Manager App built with with React.js and Redux Toolkit. Redux Toolkit i
 
 
 
-# Live demo
-
-http://stephanieplomp.github.io/budget-manager-app
-
 ## Screenshot
 
 ![App Screenshot](https://stephanieplomp.github.io/static/media/budgetManager.223856d050002f8f1ff2.png)
