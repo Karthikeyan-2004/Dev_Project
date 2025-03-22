@@ -77,7 +77,7 @@ const Sidebar = ({ show, dataExpense, dataIncome, setPage }) => {
         <div className="menu">
           <ul className="menu-items" onClick={handleClick}>
             <li><NavLink to='/' className="menu-item"> <UilEstate /> Dashboard</NavLink></li>
-            <li><NavLink to='/add-income' className="menu-item"> <UilPlusCircle /> Add Income</NavLink></li>
+            <li><NavLink to='/add-income' className="menu-item"> <UilPlusCircle /> Add Salary</NavLink></li>
             <li><NavLink to='/add-expense' className="menu-item"><UilMinusCircle /> Add Expense</NavLink></li>
           </ul>
         </div>
